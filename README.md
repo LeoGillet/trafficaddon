@@ -1,5 +1,6 @@
 # trafficaddon
 [FiveM] Edit your traffic spawnpool!
+Download [here](https://github.com/LeoGillet/trafficaddon/releases/)
 
 ## Requirements
 * A legit copy of GTA V
