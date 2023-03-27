@@ -10,10 +10,10 @@ Download [here](https://github.com/LeoGillet/trafficaddon/releases/)
 
 ## Notes
 I didn't include a popgroups.ymt file in this repository due to legal reasons.
-You should extract it from your own copy of GTA V, this is explained below.
+You should extract it from your own copy of GTA V, as explained below.
 
 ## Installation
-1. Clone repository in your server's resources folder *or* download and extract into a created directory named **trafficaddon** in your resources folder
+1. Clone repository in your server's resources folder *or* download release and extract into a created directory named **trafficaddon** in your resources folder
 2. Make sure your file structure looks like this : *server/resources/trafficaddon/__resource.lua*
 3. Copy your edited GTA V's **popgroups.ymt** file in the same directory **(Guide below)**
 4. Make sure to add **start trafficaddon** to your server.cfg file (aswell as your vehicles)
@@ -26,4 +26,4 @@ You should extract it from your own copy of GTA V, this is explained below.
 4. Right-click on popgroups.ymt and export to XML to remove encryption
 5. Edit your exported popgroups.ymt.xml file to your liking and save it as popgroups.ymt again
 
-**Feel free to message me on Discord *leyo#0016* for more information**
+**Feel free to message me on Discord for questions or more information @** *leog#0016* 
