@@ -26,4 +26,4 @@ You should extract it from your own copy of GTA V, as explained below.
 4. Right-click on popgroups.ymt and export to XML to remove encryption
 5. Edit your exported popgroups.ymt.xml file to your liking and save it as popgroups.ymt again
 
-**Feel free to message me on Discord for questions or more information @** *leog#0016* 
+**Feel free to message me on Discord for questions or more information @** *biodev* 
